@@ -1,0 +1,14 @@
+## Foldery kompilacji
+[Bb]in/
+[Oo]bj/
+
+## Pliki Ridera i JetBrains
+.idea/
+*.sln.iml
+*.idea
+
+## Pliki użytkownika i tymczasowe
+*.user
+*.suo
+*.log
+.DS_Store
